@@ -1,0 +1,35 @@
+- Test for reducing sugars (example: glucose)
+- Reagent : Benedict's solution (blue)
+- Test : Heat food sample (crushed water extract if sample if solid) with the same volume of benedict's solution in a test tube, over a boiling water bath for three minutes.
+- Positive result : Colour change from blue to brick red.
+- Conclusion :  Reducing sugars present.
+- Negative result : Solution stays blue.
+- Conclusion : Reducing sugars absent.
+- Precautions : 1. Wear safety goggles, lab coat, and gloves.
+				2. The test tube mouth should face away from you.
+				3. Use a water bath for heating the solution.
+			  
+- Test for starch
+- Reagent : Iodine solution (yellow/brown)
+- Test : To 2 cm3 of the water extract of the crushed food sample, add a few drops of iodine solution. Then shake.
+- Positive result : Colour change from yellow/brown to blue/black
+- Conclusion :  Starch is present.
+- Negative result : Colour stays yellow/brown.
+- Conclusion : Starch is absent.
+
+- Test for proteins
+- Reagent : Biuret reagent (blue)
+- Test : To 2 cm3 of water extract of crushed food sample, add sodium hydroxide (aq), then dropwise add copper sulphate (aq). Shake gently.
+- Positive result : Colour change from blue to purple (mauve/lilac/violet)
+- Conclusion : Proteins present.
+- Negative result : Colour of mixture stays ble.
+- Conclusion : Proteins absent.
+
+- Test for lipids
+- Reagent : Ethanol (colourless)
+- Test : To the crushed food sample (do not prepare a water extract), add ethanol. Shake gently, then filter. Let the filtrate drop into a test tube containing distilled water.
+- Positive result : The distilled water becomes milky (from clear).
+- Conclusion : Lipids are present.
+- Negative result : The distilled water stays clear.
+- Conclusion : Lipids are absent.
+- The more the milkiness/turbidity, the greater the amount of lipids present.

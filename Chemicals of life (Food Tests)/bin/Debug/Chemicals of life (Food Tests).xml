@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Chemicalsoflife(FoodTests)
+</name>
+</assembly>
+<members>
+<member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.backgroundDNA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.bunsenBurner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.check">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.crushedFoodSample">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.hotWaterBathBlue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.proteinsTest">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.reducingSugarsTest">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ReducingSugarsTestResult">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.starchTest">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ttBlueBlackLiquid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ttBlueLiquid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ttClearLiquid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ttMilkyLiquid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ttPurpleLiquid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ttRedLiquid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.ttYellowLiquid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chemicals_of_life__Food_Tests_.My.Resources.Resources.x">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Chemicals_of_life__Food_Tests_.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

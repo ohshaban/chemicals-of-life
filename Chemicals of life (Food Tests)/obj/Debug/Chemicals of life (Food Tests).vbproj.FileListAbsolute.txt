@@ -1,0 +1,15 @@
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\bin\Debug\Chemicals of life (Food Tests).exe.config
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals_of_life__Food_Tests_.mainMenu.resources
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals of life (Food Tests).vbproj.GenerateResource.Cache
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\bin\Debug\Chemicals of life (Food Tests).exe
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\bin\Debug\Chemicals of life (Food Tests).pdb
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\bin\Debug\Chemicals of life (Food Tests).xml
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals_of_life__Food_Tests_.Resources.resources
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals of life (Food Tests).exe
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals of life (Food Tests).xml
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals of life (Food Tests).pdb
+c:\users\hilal\documents\visual studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals_of_life__Food_Tests_.sugarsForm.resources
+C:\Users\Hilal\Documents\Visual Studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals_of_life__Food_Tests_.questionsForm.resources
+C:\Users\Hilal\Documents\Visual Studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals_of_life__Food_Tests_.lipidsForm.resources
+C:\Users\Hilal\Documents\Visual Studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals_of_life__Food_Tests_.proteinsForm.resources
+C:\Users\Hilal\Documents\Visual Studio 2013\Projects\Chemicals of life (Food Tests)\Chemicals of life (Food Tests)\obj\Debug\Chemicals_of_life__Food_Tests_.starchForm.resources
